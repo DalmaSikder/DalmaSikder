@@ -1,4 +1,4 @@
-# Dalma Sikder - Portfolio 🚀  
+# @DalmaSikder - Portfolio 🚀  
 
 Welcome to my personal portfolio! This project showcases my **skills, projects, and experience** as Programmer.  
 

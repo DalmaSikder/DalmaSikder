@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This project showcases my **skills, projects, and experience** as Programmer.  
 
 ## 📌 Live Demo  
-🔗 [View Portfolio](https://dalmasikder.github.io)  
+🔗 (https://dalmasikder.github.io)  
 
 ## 🛠️ Tech Stack  
 ### Frontend:  
@@ -24,7 +24,7 @@ Welcome to my personal portfolio! This project showcases my **skills, projects, 
 ## 📂 Setup & Installation  
 ### Frontend (React)  
 ```sh
-git clone https://github.com/DalmaSikder/portfolio-backend.git
+git clone https://github.com/DalmaSikder/backend.git
 cd portfolio-backend
 mvn spring-boot:run
 

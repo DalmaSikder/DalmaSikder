@@ -1,6 +1,6 @@
-# Dalma Sikder Zisa - Portfolio 🚀  
+# Dalma Sikder - Portfolio 🚀  
 
-Welcome to my personal portfolio! This project showcases my **skills, projects, and experience** as a Java backend and AI developer.  
+Welcome to my personal portfolio! This project showcases my **skills, projects, and experience** as Programmer.  
 
 ## 📌 Live Demo  
 🔗 [View Portfolio](https://dalmasikder.github.io)  

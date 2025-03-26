@@ -1,16 +1,54 @@
-## Hi there 👋
+# Dalma Sikder Zisa - Portfolio 🚀  
 
-<!--
-**DalmaSikder/DalmaSikder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio! This project showcases my **skills, projects, and experience** as a Java backend and AI developer.  
 
-Here are some ideas to get you started:
+## 📌 Live Demo  
+🔗 [View Portfolio](https://dalmasikder.github.io/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+### Frontend:  
+- React.js (for a dynamic and modern UI)  
+- Tailwind CSS (for styling)  
+
+### Backend:  
+- Java (Spring Boot)  
+- RESTful APIs  
+- MySQL/PostgreSQL (Database)  
+
+## 🚀 Features  
+✅ **Project Showcase** – View my latest work in AI & Java  
+✅ **Blog Section (Optional)** – Share technical insights  
+✅ **Contact Form** – Reach out easily  
+✅ **Dynamic Content** – Fetched from a Java backend  
+
+## 📂 Setup & Installation  
+### Frontend (React)  
+```sh
+git clone https://github.com/DalmaSikder/portfolio-backend.git
+cd portfolio-backend
+mvn spring-boot:run
+
+📩 Contact Me
+🔗 [LinkedIn](https://www.linkedin.com/in/dalmasikder/)
+
+📧 Email: dalmasikder@gmail.com
+
+
+---
+
+### **📝 `.gitignore` (For Java + React Project)**  
+```gitignore
+# Node.js (React)
+node_modules/
+build/
+.env
+.DS_Store
+
+# Java (Spring Boot)
+target/
+*.log
+*.jar
+*.war
+*.class
+.env
+

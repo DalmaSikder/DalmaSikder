@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This project showcases my **skills, projects, and experience** as Programmer.  
 
 ## 📌 Live Demo  
-🔗 (https://dalmasikder.github.io)  
+🔗 [View Portfolio](https://dalmasikder.github.io)  
 
 ## 🛠️ Tech Stack  
 ### Frontend:  
